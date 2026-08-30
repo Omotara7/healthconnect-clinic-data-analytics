@@ -1,4 +1,4 @@
-# HealthConnect Clinic- No-Show Pattrns
+# HealthConnect Clinic- No-Show Patterns
 A data analytics project focused on understanding appointment attendance and no-show patterns at HealthConnect Clinic.
 
 ### Project Overview
