@@ -73,8 +73,44 @@ The proposed analytical approach for the next stage is to:
 6. Compare patterns across relevant appointment and patient groups.
 7. Interpret the findings and identify meaningful business insights.### Proposed KPIs
 
-### Week 4 Outcome
+### Exploratory Analysis & KPI Development
 
-Week 4 established the foundation for the HealthConnect Data Analytics project through data understanding, initial quality assessment, variable identification, business-question development and KPI planning.
+Week 5 progressed the HealthConnect Clinic Data Analytics project from initial planning and data understanding into exploratory analysis, KPI development and business insight generation.
 
+### Work Completed
+
+- Conducted exploratory analysis of appointment attendance and no-show patterns.
+- Calculated key appointment performance KPIs.
+- Analysed no-show patterns across patient, appointment, booking and operational characteristics.
+- Investigated the relationship between previous no-show history and future appointment outcomes.
+- Analysed booking lead time, reminder channels, appointment type, appointment day, age group, distance to clinic and waiting time.
+- Developed and refined Power BI visualisations to communicate the findings.
+- Applied conditional formatting to improve interpretation of high- and low-risk segments.
+- Developed business insights and recommendations based on observed patterns.
+- Documented analytical limitations and areas requiring further investigation.
+
+### Key KPIs
+
+| KPI | Result |
+|---|---:|
+| No-Show Rate | 48.5% |
+| Cancellation Rate | 5.3% |
+| Attendance Rate | 46.3% |
+| Repeat No-Show Rate | 55.4% |
+
+### Key Findings
+
+The analysis identified several notable patterns:
+
+1. No-shows represent the largest appointment outcome category.
+2. Appointments involving patients with previous no-show history show higher no-show rates.
+3. Longer booking lead times are associated with higher observed no-show rates.
+4. Attendance patterns vary across reminder channels.
+5. Longer waiting times are associated with higher observed no-show rates.
+
+These findings represent observed associations in the dataset and should not be interpreted as evidence of causation.
+
+### Dashboard Preview
+
+![HealthConnect Dashboard](dashboard5.png)
 **Tools:** Microsoft Excel | Power Query | GitHub
