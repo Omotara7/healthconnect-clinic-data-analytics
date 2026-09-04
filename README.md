@@ -73,6 +73,8 @@ The proposed analytical approach for the next stage is to:
 6. Compare patterns across relevant appointment and patient groups.
 7. Interpret the findings and identify meaningful business insights.### Proposed KPIs
 
+---
+
 ### Exploratory Analysis & KPI Development
 
 Week 5 progressed the HealthConnect Clinic Data Analytics project from initial planning and data understanding into exploratory analysis, KPI development and business insight generation.
@@ -112,5 +114,6 @@ These findings represent observed associations in the dataset and should not be 
 
 ### Dashboard Preview
 
-![HealthConnect Dashboard](dashboard5.png)
+![HealthConnect Dashboard](Dashboard5.png)
+
 **Tools:** Microsoft Excel | Power Query | GitHub
