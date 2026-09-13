@@ -112,8 +112,45 @@ The analysis identified several notable patterns:
 
 These findings represent observed associations in the dataset and should not be interpreted as evidence of causation.
 
+
 ### Dashboard Preview
 
 ![HealthConnect Dashboard](Dashboard5.png)
+
+
+## Advanced Analytics & Decision Support
+
+Week 6 extended the HealthConnect analysis from exploratory data analysis into deeper relationship analysis and decision support.
+
+### Key Activities
+
+- Analysed No-Show Rate by Booking Lead Group
+- Analysed No-Show Rate by Previous No-Show Group
+- Created a Previous No-Show Group for deeper segmentation
+- Examined the relationship between Booking Lead and Previous No-Show History
+- Analysed Previous No-Show History across Reminder Channels
+- Validated and refined findings from the previous analysis
+- Developed additional decision-support visuals in Power BI
+- Identified high-impact findings and operational recommendations
+
+### Cross-Track Integration
+
+The Analytics track prepared a structured handoff for potential Data Science integration. Candidate modelling variables included booking lead time, previous no-show history, reminder channel, and the interaction between booking lead and previous no-show history.
+
+An analytical findings and proposed modelling requirements were documented as a foundation for future Data Science integration.
+
+### Advanced Analysis Dashboard Preview
+
+![Advanced Analysis Dashboard](Dashboard6.png)
+
+![Analytical Dashboard](Dashboard 6 2.png)
+
+### Key Insights
+
+1. No-show rates increased across the booking lead groups, indicating that appointments booked further in advance require further investigation and monitoring.
+2. Patients with previous no-show history generally showed higher current no-show rates.
+3. Combining booking lead time with previous no-show history provided a deeper view of higher-risk appointment segments.
+4. Differences were observed across reminder channels, providing an area for further evaluation.
+5. Segment volumes were considered alongside rates to avoid overinterpreting results from small groups.
 
 **Tools:** Microsoft Excel | Power Query | GitHub
