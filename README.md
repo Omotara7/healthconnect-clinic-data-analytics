@@ -143,13 +143,13 @@ An analytical findings and proposed modelling requirements were documented as a 
 
 ![Advanced Analysis Dashboard](Dashboard6.png)
 
-![Analytical Dashboard](Dashboard 6 2.png)
+![Analytical Dashboard](Dashboard62.png)
 
 ### Key Insights
 
 1. No-show rates increased across the booking lead groups, indicating that appointments booked further in advance require further investigation and monitoring.
 2. Patients with previous no-show history generally showed higher current no-show rates.
-3. Combining booking lead time with previous no-show history provided a deeper view of higher-risk appointment segments.
+3. Combining booking lead time with previous no-show history provided a deeper view of higherrisk appointment segments.
 4. Differences were observed across reminder channels, providing an area for further evaluation.
 5. Segment volumes were considered alongside rates to avoid overinterpreting results from small groups.
 
