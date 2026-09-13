@@ -120,7 +120,7 @@ These findings represent observed associations in the dataset and should not be 
 
 ## Advanced Analytics & Decision Support
 
-Week 6 extended the HealthConnect analysis from exploratory data analysis into deeper relationship analysis and decision support.
+Extended the HealthConnect analysis from exploratory data analysis into deeper relationship analysis and decision support.
 
 ### Key Activities
 
@@ -130,7 +130,6 @@ Week 6 extended the HealthConnect analysis from exploratory data analysis into d
 - Examined the relationship between Booking Lead and Previous No-Show History
 - Analysed Previous No-Show History across Reminder Channels
 - Validated and refined findings from the previous analysis
-- Developed additional decision-support visuals in Power BI
 - Identified high-impact findings and operational recommendations
 
 ### Cross-Track Integration
@@ -143,7 +142,7 @@ An analytical findings and proposed modelling requirements were documented as a 
 
 ![Advanced Analysis Dashboard](Dashboard6.png)
 
-![Analytical Dashboard](Dashboard62.png)
+![Analytical Dashboard](Dashboard 6 2.png)
 
 ### Key Insights
 
