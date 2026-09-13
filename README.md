@@ -142,7 +142,7 @@ An analytical findings and proposed modelling requirements were documented as a 
 
 ![Advanced Analysis Dashboard](Dashboard6.png)
 
-![Advanced Analytical Dashboard](Dashboard6 2.png)
+![Advanced Analytical Dashboard](Dashboard62.png)
 
 ### Key Insights
 
