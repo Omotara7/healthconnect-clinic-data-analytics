@@ -1,4 +1,4 @@
-# HealthConnect Clinic- No-Show Patterns
+# HealthConnect Clinic No-Show Patterns
 A data analytics project focused on understanding appointment attendance and no-show patterns at HealthConnect Clinic.
 
 ### Project Overview
@@ -153,3 +153,61 @@ An analytical findings and proposed modelling requirements were documented as a 
 5. Segment volumes were considered alongside rates to avoid overinterpreting results from small groups.
 
 **Tools:** Microsoft Excel | Power Query | GitHub
+
+## Week 7 – Testing, Refinement & End-to-End Validation
+
+Week 7 focused on systematically testing and validating the analytical outputs developed during the previous phases of the HealthConnect project.
+
+### Key Activities
+
+- Validated the major HealthConnect KPIs against the underlying dataset
+- Checked Power BI dashboard values for consistency with the source data
+- Tested important analytical findings and segmented results
+- Validated Booking Lead and Previous No-Show analyses
+- Tested key analytical matrices and dashboard filters
+- Reviewed dashboard visuals for clarity, duplication and usability
+- Refined dashboard components based on testing and analytical relevance
+- Retested important outputs after validation and refinement
+- Documented testing results, decisions, limitations and remaining dependencies
+- Prepared validated analytical findings for potential cross-track integration
+
+### Testing & Validation
+
+The Week 7 testing process covered:
+
+- KPI validation
+- Analytical validation
+- Dashboard calculation checks
+- Filter and interaction testing
+- Matrix validation
+- Visual and usability review
+- Retesting following refinement
+
+Where no issue was identified, the output was recorded as successfully validated.
+
+### Key Validated Findings
+
+The analysis confirmed the relevance of several patterns identified during Week 6, including:
+
+- Differences in no-show rates across booking lead time groups
+- Relationship between previous no-show history and subsequent no-show behaviour
+- Combined patterns between booking lead time and previous no-show history
+- Differences in no-show patterns across reminder channels
+
+These findings were interpreted as observed relationships rather than causal effects.
+
+### Cross-Track Testing
+
+A Data Analytics to Data Science testing activity was planned to assess whether validated analytical findings could support future predictive modelling.
+
+Potential modelling inputs included:
+
+- Booking Lead Time
+- Previous No-Show History
+- Reminder Channel
+- Booking Lead Time × Previous No-Show History
+
+
+### Remodeled Dashboard Preview
+
+![HealthConnect Week 7 Dashboard](./Week%207/Screenshots/After%20Refinement.png)
