@@ -210,4 +210,6 @@ Potential modelling inputs included:
 
 ### Remodeled Dashboard Preview
 
-![HealthConnect Week 7 Dashboard](./Week%207/Screenshots/After%20Refinement.png)
+![HealthConnect Week 7 Dashboard](Dashboard7.png)
+![HealthConnect Week 7 Dashboard](Dashboard71.png)
+![HealthConnect Week 7 Dashboard](Dashboard72.png)
