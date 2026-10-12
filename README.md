@@ -82,9 +82,9 @@ The Data Analytics track documented validated findings and proposed variables fo
 - [HealthConnect Dashboard](ExploratoryDashboard.png)
 - [HealthConnect Dashboard](AdvancedAnalysis.png)
 - [HealthConnect Dashboard](AdvancedAnalysis2.png)
-- [HealthConnect Dashboard](Dashboard7.png)
+- [HealthConnect Dashboard](Refinement.png)
 - [HealthConnect Dashboard](Dashboard71.png)
-- [HealthConnect Dashboard](Dashboard72.png)
+- [HealthConnect Dashboard](Refinement2.png)
 
 
 
