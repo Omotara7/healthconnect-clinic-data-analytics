@@ -79,12 +79,12 @@ The Data Analytics track documented validated findings and proposed variables fo
 
 ### Dashboard Screenshots
 
-- [Dashboard screenshot 5](Dashboard5.png)
-- [Dashboard screenshot 6](Dashboard6.png)
-- [Dashboard screenshot 62](Dashboard62.png)
-- [Dashboard screenshot 7](Dashboard7.png)
-- [Dashboard screenshot 71](Dashboard71.png)
-- [Dashboard screenshot 72](Dashboard72.png)
+- [HealthConnect Dashboard](Dashboard5.png)
+- [HealthConnect Dashboard](Dashboard6.png)
+- [HealthConnect Dashboard](Dashboard62.png)
+- [HealthConnect Dashboard](Dashboard7.png)
+- [HealthConnect Dashboard](Dashboard71.png)
+- [HealthConnect Dashboard](Dashboard72.png)
 
 
 
